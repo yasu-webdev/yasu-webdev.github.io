@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yasu-webdev.github.io/sitemap.xml
